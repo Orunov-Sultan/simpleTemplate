@@ -274,3 +274,25 @@
     font-weight: 400;
     color: #4a4a4a;
 }
+
+/* footer */
+
+.footer {
+    padding: 69px 0 61px;
+    height: 166px;
+    background-color: #1a1a1a;
+    text-align: center;
+    color: #888888;
+}
+
+.footer_links {
+    margin-bottom: 8px;
+}
+
+.footer_links a {
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 300;
+    text-decoration: underline;
+    color: #888888;
+}
