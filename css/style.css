@@ -93,3 +93,53 @@
 .more_img {
     cursor: pointer;
 }
+
+/* waiting section */
+
+.waiting {
+    height: 604px;
+    background-color: #efefef;
+    padding: 86px 0 75px;
+    text-align: center;
+}
+
+.waiting_header {
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.divider {
+    width: 217px;
+    height: 4px;
+    background-color: #f9bf3b;
+    margin: 17px auto;
+}
+
+.waiting_subheader {
+    font-size: 23px;
+    font-weight: 400;
+    color: #4a4a4a;
+}
+
+.waiting_wrapper {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.waiting_item {
+    width: 342px;
+}
+
+.waiting_item .waiting_img {
+    width: 100%;
+}
+
+.waiting_descr {
+    margin-top: 33px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #4a4a4a;
+}
