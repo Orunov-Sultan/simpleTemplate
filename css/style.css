@@ -243,3 +243,34 @@
 .gift .btn {
     margin: 0 auto;
 }
+
+/* webinar section */
+
+.webinar {
+    min-height: 515px;
+    padding: 82px 0 64px;
+    text-align: center;
+}
+
+.webinar_first {
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.webinar h2 {
+    margin-top: 15px;
+    font-size: 36px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #299cbd;
+}
+
+.webinar_descr {
+    margin-top: 10px;
+    font-size: 23px;
+    font-weight: 400;
+    color: #4a4a4a;
+}
